@@ -10,10 +10,11 @@ public class DeclarationApp {
         double f = 2.5D;
         char g = 'g';
         boolean h = true;
-        String monString i = "Hello";
+        String i = "Hello";
+        String randomString = "Voici le résultat d’un calcul : " +
+                "1+5=6";
 
-
-        System.out.println(monString);
+        System.out.println(randomString);
     }
 }
 
