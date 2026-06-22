@@ -1,4 +1,4 @@
-package fr.fr.tableaux;
+package fr.tableaux;
 
 public class ExerciceDaclarationTab {
     public static void main(String[] args) {
