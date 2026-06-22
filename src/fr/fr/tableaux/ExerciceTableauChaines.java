@@ -3,7 +3,7 @@ package fr.fr.tableaux;
 public class ExerciceTableauChaines {
     public static void main(String[] args) {
         // DECLARATION ET MODIFICATION
-        String [] villes = {"Marseille", "Manchester", "Milan", "Dortmund", "Valence"};
+        String[] villes = {"Marseille", "Manchester", "Milan", "Dortmund", "Valence" };
 
 
         System.out.println(villes[0]);
